@@ -24,7 +24,7 @@ p{
 
 .header{
   color: white;
-  background-image: image("./resources/images/the-flatiron-building.png");
+  background-image: image(./resources/images/the-flatiron-building.png);
 }
 
 .process{
@@ -36,4 +36,5 @@ p{
   font-size: 23px;
   font-weight: bold;
   color: white;
+  background-image: image(./resources/images/the-flatiron-building.png);
 }
