@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 18px;
+}
+
+.header{
+  color: white;
+  background-image: image("./resources/images/the-flatiron-building.png");
+}
